@@ -26,9 +26,9 @@ Course Outline
 - IPython Notebook basics
 - Examples of capabilities
 
-   - Reading data
-   - Displaying images
-   - Plotting data
+  - Reading data
+  - Displaying images
+  - Plotting data
 
 - General Python practicalities
 - Exercises part of all sessions
