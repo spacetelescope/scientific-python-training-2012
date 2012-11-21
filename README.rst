@@ -14,7 +14,12 @@ No Python background is required.
 Schedule
 --------
 
-Session 1: Nov. 28
+============== ==============
+Session1
+-----------------------------
+Lecture        Nov. 28, 10 AM
+Problem Review Dec. 5, 1 PM
+============== ==============
 
 Course Outline
 --------------
