@@ -137,6 +137,8 @@ Using Python for Science and Engineering
 Books
 ~~~~~
 
+- `Python for Data Analysis by Wes McKinney <http://shop.oreilly.com/product/0636920023784.do>`_
+- `SciPy and NumPy by Eli Bressert <http://shop.oreilly.com/product/0636920020219.do>`_
 - A Primer on Scientific Programming with Python by Hans Petter Langtangen
   (Also: Python Scripting for Computational Science)
 - Beginning Python Visualization: Crafting Visual Transformation Scripts
@@ -144,7 +146,6 @@ Books
 - Matplotlib for Python Developers by Sandro Tosi
 - Numpy 1.5 Beginner's Guide by Ivan Idris
 - Numerical Methods in Engineering with Python by Jaan Kiusalaas
-- Python for Data Analysis by Wes McKinney
 
 Information on General Python
 -----------------------------
