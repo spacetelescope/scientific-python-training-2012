@@ -186,7 +186,7 @@ download the
 `AstroPy Ureka add-on <http://stsdas.stsci.edu/download/astropy-2012-12-05-addon.tar.gz>`_
 and install it with::
 
-  ur-install astropy-2012-12-05-addon.tar.gz
+  ur-install astropy-2012-12-05-addon.tar.gz common
 
 Windows
 ~~~~~~~
