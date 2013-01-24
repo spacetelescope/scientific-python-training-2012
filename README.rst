@@ -110,6 +110,8 @@ Introduction to:
 
 **Session 6: Data elsewhere**
 
+- Doodle poll for potential topics is at http://doodle.com/78vi8b6rzruarcwb
+
 Information on Scientific Python
 --------------------------------
 
