@@ -96,8 +96,8 @@ def run(image,aper="4.",sky=8., width=3., plots=False):
     #but we'll keep it more simple here
     instrument=pyfits.getval(image,"INSTRUME")
     if "NICMOS" not in instrument:
-        print "Program only valid for NICMOS images, check inputs"
-        return IOError     
+        raise IOError("Program only valid for NICMOS images, check inputs") 
+     
         
     #calculate the zeropoint from the header, these are set for NICMOS
     #you could make functions for different instruments here

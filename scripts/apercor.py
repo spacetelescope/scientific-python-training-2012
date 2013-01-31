@@ -47,8 +47,7 @@ def apercor(image,plotname='aperture_correction.pdf',save=False):
 
     """
     if not os.access(image,os.F_OK):
-        print("Unable to access input image: %s"%(image))
-        return IOError
+        raise IOError("Unable to access input image: %s"%(image))
         
     
     aperphot.set_daopars(1.) #nasic pars we want, set gain to 1
@@ -84,8 +83,7 @@ def readaper(filename):
     """read in a phot file where apertures have been saved for a single star"""
     
     if not os.access(filename,os.F_OK):
-        print("Unable to access input file: %s"%(filename))
-        return IOError
+        raise IOError("Unable to access input file: %s"%(filename))
    
     
     #read in the file
