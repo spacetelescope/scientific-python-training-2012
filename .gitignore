@@ -28,3 +28,6 @@ pip-log.txt
 
 # Student solutions on Matt's computer
 student_solutions
+
+# Mac stuff
+.DS_Store
