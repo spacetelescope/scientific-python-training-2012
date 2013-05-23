@@ -11,6 +11,16 @@ introduced as more complex examples are worked through.
 
 No Python background is required.
 
+Course Material
+---------------
+
+Video of all the presentations is available
+`on the STScI webpage <https://webcast.stsci.edu/webcast/searchresults.xhtml?searchtype=20&eventid=184&sortmode=1>`_.
+
+Completed homework and demo IPython Notebooks are available in the
+`homework_notebooks <./homework_notebooks>`_ and
+`lecture_notebooks <./lecture_notebooks>`_ directories.
+
 Schedule
 --------
 
